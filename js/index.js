@@ -23,7 +23,7 @@ if (hacker1.length === hacker2.length) {
   );
 }
 
-// Iteration 3: Loops
+// Iteration 3: Loop(s)
 // 3.1
 
 hacker1 = hacker1.toUpperCase();
